@@ -1,4 +1,6 @@
-# Francielly Lima ✨
+<p align="center">
+  <img src="banner.png">
+</p>
 
 💻 Estudando desenvolvimento fullstack  
 Apaixonada por interfaces modernas e tecnologia  
