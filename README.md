@@ -1,29 +1,15 @@
-# Olá 👋
+# Francielly Lima ✨
 
-Sou a Francielly L e estou iniciando minha jornada no desenvolvimento web
-
-Atualmente estudo desenvolvimento fullstack com foco em Front-End, criando projetos modernos e evoluindo constantemente minhas habilidades.
-
----
-
-## 💻 Tecnologias
-
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
+💻 Estudando desenvolvimento fullstack  
+Apaixonada por interfaces modernas e tecnologia  
+Construindo projetos e evoluindo um pouco todos os dias  
 
 ---
 
-## 📚 Atualmente estudando
-
-- Responsividade
-- Interfaces modernas
-- Lógica de programação
-- Desenvolvimento Fullstack
+### Tecnologias
+HTML • CSS • JavaScript • GitHub
 
 ---
 
-## 🚀 Objetivos
-
-Meu objetivo é evoluir como desenvolvedora, construir projetos cada vez mais profissionais e conquistar minha primeira oportunidade na área de tecnologia.
+### Atualmente
+📚 Aprendendo mais sobre front-end, responsividade e desenvolvimento web
