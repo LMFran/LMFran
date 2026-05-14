@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**LMFran/LMFran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou a Francielly L e estou iniciando minha jornada no desenvolvimento web
 
-Here are some ideas to get you started:
+Atualmente estudo desenvolvimento fullstack com foco em Front-End, criando projetos modernos e evoluindo constantemente minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📚 Atualmente estudando
+
+- Responsividade
+- Interfaces modernas
+- Lógica de programação
+- Desenvolvimento Fullstack
+
+---
+
+## 🚀 Objetivos
+
+Meu objetivo é evoluir como desenvolvedora, construir projetos cada vez mais profissionais e conquistar minha primeira oportunidade na área de tecnologia.
