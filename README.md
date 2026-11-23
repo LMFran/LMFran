@@ -9,10 +9,10 @@ Olá, eu sou a Francielly! 👋
 👩‍💻 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no ENIAC e estou direcionando meus estudos para Cloud e DevOps.
-
 Gosto de entender como uma aplicação funciona de ponta a ponta: interface, API, banco de dados e infraestrutura. Tenho colocado isso em prática em projetos acadêmicos e pessoais, enquanto aprofundo meus conhecimentos em AWS, Terraform, GitHub Actions e Python.
 
 🧰 Tecnologias e ferramentas
+
 ☁️ Cloud e automação — conhecimentos em desenvolvimento
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
@@ -37,7 +37,9 @@ Gosto de entender como uma aplicação funciona de ponta a ponta: interface, API
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white" alt="VS Code">
-</p>🚀 Projetos em destaque
+</p>
+🚀 Projetos em destaque
+
 🍰 Doce Conexão | Joy Silva
 
 Catálogo digital responsivo para uma confeitaria, com páginas de produtos, navegação entre categorias e contato pelo WhatsApp. No projeto acadêmico, também desenvolvi uma integração local com API em PHP e banco de dados MySQL.
