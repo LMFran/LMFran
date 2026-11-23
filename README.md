@@ -2,7 +2,9 @@ Olá, eu sou a Francielly! 👋
 ☁️ Cloud & DevOps em formação · 🎓 Análise e Desenvolvimento de Sistemas · 📍 Guarulhos, SP
 <img src="https://img.shields.io/badge/Foco-Cloud%20%26%20DevOps-2563EB?style=flat-square" alt="Foco: Cloud e DevOps">
 <img src="https://img.shields.io/badge/Em%20aprendizado-contínuo-059669?style=flat-square" alt="Em aprendizado contínuo">
-<img src="https://img.shields.io/badge/Objetivo-Primeira%20oportunidade-334155?style=flat-square" alt="Buscando primeira oportunidade"></div>👩‍💻 Sobre mim
+<img src="https://img.shields.io/badge/Objetivo-Primeira%20oportunidade-334155?style=flat-square" alt="Buscando primeira oportunidade"></div>
+
+👩‍💻 Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas no ENIAC e estou direcionando meus estudos para Cloud e DevOps.
 
 Gosto de entender como uma aplicação funciona de ponta a ponta: interface, API, banco de dados e infraestrutura. Tenho colocado isso em prática em projetos acadêmicos e pessoais, enquanto aprofundo meus conhecimentos em AWS, Terraform, GitHub Actions e Python.
@@ -16,6 +18,7 @@ Gosto de entender como uma aplicação funciona de ponta a ponta: interface, API
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
+
 💻 Linguagens e desenvolvimento web
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -24,6 +27,7 @@ Gosto de entender como uma aplicação funciona de ponta a ponta: interface, API
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
 </p>
+
 🗄️ Banco de dados e ferramentas
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -56,12 +60,14 @@ AWS · Terraform · GitHub Actions
 - GitHub Actions: automações e pipelines de CI/CD.
 - Python: lógica, scripts e automação.
 - IA no desenvolvimento: GitHub Copilot e Devin.
+
 🎓 Formação
 Análise e Desenvolvimento de Sistemas — ENIAC
 Conclusão prevista: 2026.
 
 ✨ Além da tecnologia
-🏃‍♀️ Corrida · 🎮 Games · 🔬 Ciência · 🎼 Música clássica · 🌱 Aprendizado contínuo  
+🏃‍♀️ Corrida · 🎮 Games · 🔬 Ciência · 🎼 Música clássica · 🌱 Aprendizado contínuo
+
 <div align="center">💬 Vamos nos conectar?
 <a href="https://github.com/LMFran">
   <img src="https://img.shields.io/badge/GitHub-LMFran-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub LMFran">
