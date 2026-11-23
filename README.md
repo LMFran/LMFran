@@ -59,6 +59,7 @@ AWS · Terraform · GitHub Actions
 🎓 Formação
 Análise e Desenvolvimento de Sistemas — ENIAC
 Conclusão prevista: 2026.
+
 ✨ Além da tecnologia
 🏃‍♀️ Corrida · 🎮 Games · 🔬 Ciência · 🎼 Música clássica · 🌱 Aprendizado contínuo  
 <div align="center">💬 Vamos nos conectar?
