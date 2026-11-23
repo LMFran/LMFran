@@ -1,6 +1,7 @@
 Olá, eu sou a Francielly! 👋
 
 ☁️ Cloud & DevOps em formação · 🎓 Análise e Desenvolvimento de Sistemas · 📍 Guarulhos, SP
+
 <img src="https://img.shields.io/badge/Foco-Cloud%20%26%20DevOps-2563EB?style=flat-square" alt="Foco: Cloud e DevOps">
 <img src="https://img.shields.io/badge/Em%20aprendizado-contínuo-059669?style=flat-square" alt="Em aprendizado contínuo">
 <img src="https://img.shields.io/badge/Objetivo-Primeira%20oportunidade-334155?style=flat-square" alt="Buscando primeira oportunidade"></div>
