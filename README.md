@@ -7,6 +7,7 @@ Olá, eu sou a Francielly! 👋
 <img src="https://img.shields.io/badge/Objetivo-Primeira%20oportunidade-334155?style=flat-square" alt="Buscando primeira oportunidade"></div>
 
 👩‍💻 Sobre mim
+
 Sou estudante de Análise e Desenvolvimento de Sistemas no ENIAC e estou direcionando meus estudos para Cloud e DevOps.
 
 Gosto de entender como uma aplicação funciona de ponta a ponta: interface, API, banco de dados e infraestrutura. Tenho colocado isso em prática em projetos acadêmicos e pessoais, enquanto aprofundo meus conhecimentos em AWS, Terraform, GitHub Actions e Python.
